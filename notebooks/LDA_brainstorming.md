@@ -42,5 +42,3 @@
 
 HDBSCANという手法を利用し、756次元ベクトルをU-MAPを使用した際にクラスター化した事例があり
 U-MAPを使用すればクラスター化できる可能性がある。([例](https://github.com/ddangelov/Top2Vec))
-
-
